@@ -1,4 +1,8 @@
 con queso y salsa
 tacos y tortas
+<<<<<<< HEAD
 kilos de masa
 hdhhfhfhfhf
+=======
+kilos 
+>>>>>>> testing-2
